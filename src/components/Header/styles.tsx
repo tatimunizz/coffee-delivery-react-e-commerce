@@ -9,8 +9,8 @@ export const HeaderContainer = styled.header`
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  padding-top: clamp(0.5rem, 3vw, 2rem);
-  padding-bottom: clamp(0.5rem, 3vw, 2rem);
+  padding-top: clamp(0.5rem, 3vw, 1rem);
+  padding-bottom: clamp(0.5rem, 3vw, 1rem);
 
   div {
     display: flex;

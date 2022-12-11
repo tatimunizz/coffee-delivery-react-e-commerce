@@ -17,6 +17,7 @@ export const ProductsList = styled.ul`
   justify-content: center;
   flex-flow: row wrap;
   padding-top: 2.8125rem;
+  padding-bottom: 2.8125rem;
   gap: 2rem;
   
   @media (min-width: 1024px) {
